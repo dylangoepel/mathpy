@@ -1,4 +1,4 @@
-# approximate the binomial distribution the binomial distribution
+# binomial coefficient
 
 def binom(a, b):
     p = 1
