@@ -8,6 +8,3 @@ def binom(a, b):
         p //= i
     return p
 
-def plotBinom(samples):
-    x, y = binomGraph(samples)
-    plt.plot(x, y)
